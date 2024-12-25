@@ -35,11 +35,12 @@ DevDetective is a sleek and user-friendly web application that allows users to s
 DevDetective/
 ├── assets/
 │   ├── images/
-│   │   ├── demo.png
-│   │   ├── moon-icon.svg
-│   │   └── sun-icon.svg
-│   └── styles.css
+│        ├── demo.png
+│        ├── moon-icon.svg
+│        └── sun-icon.svg
+│   
 ├── index.html
+└── styles.css
 └── script.js
 ```
 
